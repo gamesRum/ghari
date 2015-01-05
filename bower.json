@@ -1,0 +1,44 @@
+{
+  "name": "Ghari",
+  "version": "0.0.1",
+  "description": "Ghari will be another attempt to create a website builder in nodejs",
+  "authors": [
+    "Crackdile <alonso.mendez@gmail.com>"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.1",
+    "jquery": "~2.1.3",
+    "fontawesome": "~4.2.0",
+    "angular": "~1.3.8"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gamesRum/ghari.git"
+  },
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "*.map",
+    "*.gzip",
+    "grunt",
+    "less",
+    "scss",
+    "node_modules",
+    "bower_components",
+    ".npmignore",
+    "test",
+    "tests",
+    "source",
+    "spec",
+    ".bowerrc",
+    ".gitignore",
+    ".jshintignore",
+    ".jshintrc",
+    ".bower.json",
+    "bower.json",
+    "gruntfile.js",
+    "package.json",
+    "README.md"
+  ]
+}

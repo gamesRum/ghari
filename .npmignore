@@ -1,0 +1,21 @@
+*.pyc
+*.egg-info
+*.db
+*.db.old
+*.swp
+*.db-journal
+
+.coverage
+.DS_Store
+.installed.cfg
+_gh_pages/*
+
+.idea/*
+deploy/*
+
+node_modules
+
+# don't need these in the npm package.
+bower.json
+component.json
+CONTRIBUTING.md

@@ -1,0 +1,23 @@
+{
+  "name": "Ghari",
+  "version": "0.0.1",
+  "description": "Ghari will be another attempt to create a website builder in nodejs",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gamesRum/ghari.git"
+  },
+  "contributors": [
+    "Crackdile <alonso.mendez@gmail.com>"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.10.35"
+  },
+  "devDependencies": {
+    "express": "^4.10.7",
+    "jade": "^1.8.2",
+    "stylus": "^0.49.3"
+  },
+  "dependencies": {}
+}
